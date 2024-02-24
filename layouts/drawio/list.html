@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ range .Resources.Match "**.drawio" }}
+    <p>
+      <div align="center">
+        <div class="drawio-diagram" data-diagram-data="{{ .Content }}"></div>
+        <a href="{{.Permalink}}">{{.Name}}</a>
+      </div>
+    </p>
+  {{ end }}
+{{ end }}

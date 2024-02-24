@@ -1,0 +1,7 @@
+baseURL = 'https://shanehou.github.io/'
+languageCode = 'zh-cn'
+defaultContentLanguage = 'zh'
+hasCFJLanguage = true
+title = 'Melkor'
+theme = 'gokarna'
+enableRobotsTXT = true
