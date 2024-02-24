@@ -1,4 +1,4 @@
-avatarURL = '/avatar.jpg'
+avatarURL = 'avatar.jpg'
 avatarSize = 'size-m'
 description = 'Take a sad song and make it better.'
 accentColor = '#00AAAA'
