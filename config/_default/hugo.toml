@@ -1,4 +1,4 @@
-baseURL = 'https://shanehou.github.io/blog-files'
+baseURL = 'https://shanehou.github.io/'
 languageCode = 'zh-cn'
 defaultContentLanguage = 'zh'
 hasCFJLanguage = true
